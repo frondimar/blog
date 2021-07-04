@@ -1,0 +1,3 @@
+[submodule "themes/minimal-bootstrap"]
+	path = themes/minimal-bootstrap
+	url = https://github.com/frondimar/minimal-bootstrap-hugo-theme.git
