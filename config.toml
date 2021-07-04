@@ -1,7 +1,7 @@
 baseURL = "https://frondimar.github.io/blog_public"
 languageCode = "en-us"
 title = "Some Title"
-theme = "minimal-bootstrap"
+theme = "hugo-whisper-theme"
 
 [taxonomies]
   tag = "tags"
